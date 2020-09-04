@@ -30,11 +30,22 @@ An HTML page consists **element** which are made of tags. Those elements tell th
 
 The terms "tag" and "element" are often used interchangeably.
 
+Some elements are called **"empty"** those that don't require a closing tag.
+like the `<meta>` tag, which holds information about your page that doesn't appear to the user. 
+
 A heading tag would be like:
 
 - `<h1>` with the closing tag `</h1>`.
 
 Headings go from `<h1>` to `<h6>`.
+
+### Other elements:
+
+
+- `<div>` element allows you to group a set of elements together
+in one block-level box.
+
+- `<span>`it works like an inline synonymous of `<div>`. It's mainly used to add some styles to these elements' content.
 
 
 ### What are the essential tags to build an HTML page?
@@ -91,3 +102,26 @@ Some elements by default are calle *Block elements*. Each of these elements will
 `<h1>, <p>, <ul>, and <li>.`
 
 *Inline elements*. These are by default will show next to each other, such as `<a>, <b>, <em>, and <img>.` 
+
+## What is new in HTML5 layout? 
+
+well, we can start with the tags itself. Before authors used to use div tags to difine each part of a web page e.g.`<div id='header'>` but in HTML5 the div tags were replaced with a more relative tags.
+
+The `<header>` and the `<footer>` are what appear on the top or the bottom of a web page. Tags like `<article>` and `<section>` can also have its own header and footer tags.
+
+
+The `<articles>` tag is used to contain what is inside a page.
+The `<section>` tag is used to group related content together.
+The `<a>` is used to turn a block into a link.
+
+## In order to built an effective website you must see your target audience
+
+- their culture 
+- their martial state
+- their living environment
+
+And then you look at what makes your website appealing. 
+you will start with a site map and a wireframe wich can be a sketch on paper. Here you should seek good design elements as to **hierarchy, grouping and organizing**.
+
+Another intiutive design rules should be followed like how approximate your web contents should be to each other and what colors go with your website. In a brief your website should be attractive, interactive and clear so you get more visits.
+
