@@ -91,7 +91,3 @@ Some elements by default are calle *Block elements*. Each of these elements will
 `<h1>, <p>, <ul>, and <li>.`
 
 *Inline elements*. These are by default will show next to each other, such as `<a>, <b>, <em>, and <img>.` 
-
-
-
-
