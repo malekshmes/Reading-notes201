@@ -75,7 +75,7 @@ in this attribute the name is(lang) abbreviation of language and the value is *f
 
 So this is how browsers can tell in which language this specific element was written.
 
-## There is a declaration that should AN HTML page begin with:
+## There is a declaration that should ANY HTML page begin with:
  `DOCTYPE` which tells the browser the used HTML version.
  In HTML5 it's` <!DOCTYPE html>` 
 
@@ -98,7 +98,7 @@ You can add more than one class to an element by spacing between the classes nam
 
 ## How those element will appear on your browser window:
 
-Some elements by default are calle *Block elements*. Each of these elements will start a new line, such as
+Some elements by default are called *Block elements*. Each of these elements will start a new line, such as
 `<h1>, <p>, <ul>, and <li>.`
 
 *Inline elements*. These are by default will show next to each other, such as `<a>, <b>, <em>, and <img>.` 
@@ -114,7 +114,7 @@ The `<articles>` tag is used to contain what is inside a page.
 The `<section>` tag is used to group related content together.
 The `<a>` is used to turn a block into a link.
 
-## In order to built an effective website you must see your target audience
+## In order to build an effective website you must know your target audience
 
 - their culture 
 - their martial state
