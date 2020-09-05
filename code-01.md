@@ -116,12 +116,57 @@ The `<a>` is used to turn a block into a link.
 
 ## In order to build an effective website you must know your target audience
 
-- their culture 
-- their martial state
-- their living environment
+- their age range.
+- their culture .
+- their martial state.
+- their living environment.
 
 And then you look at what makes your website appealing. 
 you will start with a site map and a wireframe wich can be a sketch on paper. Here you should seek good design elements as to **hierarchy, grouping and organizing**.
 
 Another intiutive design rules should be followed like how approximate your web contents should be to each other and what colors go with your website. In a brief your website should be attractive, interactive and clear so you get more visits.
+
+As mentioned before, to make your site interactive and user friendly you should apply some JavaScript codes *(scripts)*.
+
+## JavaScript
+### What is it?
+It's the language that a computer understand. 
+
+### Scripts
+
+A script is a series of instructions a computer can follow step-by-step.
+
+### Flowcharts
+Once you defined your goal, you will draw a flowchart of the tasks that you want to be followed and implemented by a computer.
+![image](https://media.cheggcdn.com/study/5e9/5e907033-f93b-4c56-89be-46ce27eeed5b/11280-2-3RQ-i1.png)
+
+At this stage you will learn to think as a computer, cause they have their thinking rules which are different from mine or yours. 
+
+So your website may perform different tasks in respond to different user actions.
+ 
+ ### In programming you would call things differently
+ Any phisycal thing --> Object
+ The object charactaristics --> Properties
+ Each property has a ***value*** & a ***name***.
+
+For this, every borwser has a JavaScript interpreter to translate your
+instructions (in JavaScript) into instructions the computer can follow. 
+ 
+### The main object of any page is the *Document* with holds the HTML, CSS and JavaScript codes.
+
+A rendering engine is responsible for what a borwser displays on the screen.
+
+To let JavaScript (.js) work you have to link it to your (.html) page
+- `<script src="the-path-of-the-file-you-created.js"></ script>`
+
+Those scripts are better to be added just before the closing `</body>` tag.
+
+
+
+
+
+
+
+
+
 
