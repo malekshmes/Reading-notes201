@@ -1,20 +1,20 @@
-# Working with HTML and CSS
+# Working with HTML and CSS
 Aside from styling your page with **CSS**, you can use some tags inside your **HTML** file that can apply some changes to your texts.
-## Creating paragraphs in HTML
+## Creating paragraphs in HTML
 You can create a paragraph as you surround the text with the opening tag `<p>` and the closing tag `</p>`.
 
 Notice that any white space inside a `<p>` tag will be collapsed and won't affect the result when rendering the page. This is called ***'White space collapsing'***
 
 In order to add a line break inside a paragraph you can use the `br />` tag. 
 
-### How to break sections with a horizontal rule?
+### How to break sections with a horizontal rule?
 
 To achieve this you can use the `<hr  />` tag.
 To get a result like <sup>this</sup> in HTML, you can use `<sup>` tag.
 
 But for <sub>this</sub> you can use `<sub>` tag.
 
-### A two `<p>` tags in a row will be treated as if the next paragraph is on a new line.
+### A two `<p>` tags in a row will be treated as if the next paragraph is on a new line.
 
 ## What is an example of HTML styling tags?
 - `<b>` This tag make texts bold.
