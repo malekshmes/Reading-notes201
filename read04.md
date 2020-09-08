@@ -62,6 +62,24 @@ Grandparent Folder |   to the same above level you use ../../ then index.html
 ### For links that open in a new window use    
 the attribute *target* with the value _blink.
 
+## Layout in CSS
+As we mentioned before, each element will have its own box in **CSS**. This elements could be either:
+- Block elements: ***Start On A New Line*** such as `<h1> <p> <ul> <li>`
+- Inline elements ***Flow In Between Surrounding text*** such as `<img> <p> <i>`
+## How can layout help?
+For more control of your elements you can contain many elements inside a **Parent** element (e.g. `<div>`).
+
+
+## What positioning schemes in CSS?
+There are three positioning schemes in CSS that *allow* you to contorl layout of your page
+- Relative: This will cause the selected element to move within your page without affecting other elements on the page.
+- Absolute: This one will move the selected element relativly to its container, causing it to ignore other elements.
+- Normal(Static): This is the default
+- Fixed
+- Sticky
+
+
+
 
 
 
