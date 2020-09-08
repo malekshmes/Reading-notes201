@@ -11,7 +11,7 @@
 ## How to create a link in HTML?
 
 ### The element used to that is `<a"link-text" >`**Link Description**`</a>`
-The link description is the part which *users* can click on, also it will be blue and underlined by defualt.
+The link description is the part which *users* can click on, also it will be blue and underlined by default.
 
 ## Another type of links
 The *email link*, this one will open the user's email app and address a specified email address.
@@ -71,9 +71,9 @@ For more control of your elements you can contain many elements inside a **Paren
 
 
 ## What positioning schemes in CSS?
-There are three positioning schemes in CSS that *allow* you to contorl layout of your page
+There are three positioning schemes in CSS that *allow* you to control layout of your page
 - Relative: This will cause the selected element to move within your page without affecting other elements on the page.
-- Absolute: This one will move the selected element relativly to its container, causing it to ignore other elements.
+- Absolute: This one will move the selected element relatively to its container, causing it to ignore other elements.
 - Normal(Static): This is the default
 - Fixed
 - Sticky
