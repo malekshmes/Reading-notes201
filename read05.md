@@ -58,7 +58,7 @@ _________________________________________________
 
 ## For example this 'light green' color would be expressed in three ways:
 
-![image](images/Aqua.png)
+![](images/Aqua.png)
 
 1. **RGB** values rgb(102,205,170)
 - To make this color half transparent, add alpha (*a new value in CSS3*) at last. This would be like **rgba**(102,205,170, 0.5) 
