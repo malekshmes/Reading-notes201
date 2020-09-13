@@ -6,5 +6,5 @@
 3. [read03](https://malekshmes.github.io/Reading-notes/read-o3)
 4. [read04](https://malekshmes.github.io/Reading-notes/read04)
 5. [read05](https://malekshmes.github.io/Reading-notes/read05)
-6.
-7. [read07]
+6. missed
+7. [read07](https://malekshmes.github.io/Reading-notes/read07)
