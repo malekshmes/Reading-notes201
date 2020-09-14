@@ -8,4 +8,4 @@
 5. [read05](https://malekshmes.github.io/Reading-notes/read05)
 6. missed
 7. [read07](https://malekshmes.github.io/Reading-notes/read07)
-8. [read08](https://github.com/malekshmes/Reading-notes/blob/master/read08.md)
+8. [read08](https://malekshmes.github.io/Reading-notes/read08)
