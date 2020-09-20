@@ -11,3 +11,4 @@
 8. [read08](https://malekshmes.github.io/Reading-notes/read08)
 9. [read09](https://malekshmes.github.io/Reading-notes/read09)
 11. [read11](https://malekshmes.github.io/Reading-notes/read11)
+12. [read12](https://malekshmes.github.io/Reading-notes/read12)
